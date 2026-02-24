@@ -9,16 +9,16 @@ export const metadata: Metadata = {
   description: "Participate in the PrettyLittleThing Rewards program and get a chance to claim a $500 gift card.",
     icons: {
     icon: [
-      { url: "https://i.imgur.com/YoekVmB.png", type: "image/png" },
+      { url: "https://i.imgur.com/ERaj9TB.jpeg", type: "image/jpeg" },
     ],
-    shortcut: "https://i.imgur.com/YoekVmB.png",
+    shortcut: "https://i.imgur.com/ERaj9TB.jpeg",
     apple: [
-      { url: "https://i.imgur.com/YoekVmB.png", sizes: "180x180", type: "image/png" },
+      { url: "https://i.imgur.com/ERaj9TB.jpeg", sizes: "180x180", type: "image/jpeg" },
     ],
     other: [
       {
         rel: "apple-touch-icon-precomposed",
-        url: "https://i.imgur.com/YoekVmB.png",
+        url: "https://i.imgur.com/ERaj9TB.jpeg",
       },
     ],
   },

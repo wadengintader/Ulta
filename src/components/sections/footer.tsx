@@ -9,28 +9,28 @@ const Footer = () => {
       {/* Social Media Icons */}
       <div className="flex items-center justify-center gap-1.5 mb-2">
           <a 
-            href="https://www.facebook.com/target/" 
+            href="https://www.facebook.com/UltaBeauty/" 
             target="_blank"
             rel="noopener noreferrer"
-            className="w-7 h-7 rounded-full bg-[#cc0000] hover:bg-[#cc0000] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
+            className="w-7 h-7 rounded-full bg-[#f37830] hover:bg-[#f37830] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
             aria-label="Facebook"
           >
             <Facebook className="w-3.5 h-3.5 fill-current" />
           </a>
           <a 
-            href="https://www.instagram.com/target/?hl=en"
+            href="https://www.instagram.com/ultabeauty/"
             target="_blank"
             rel="noopener noreferrer"
-            className="w-7 h-7 rounded-full bg-[#cc0000] hover:bg-[#cc0000] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
+            className="w-7 h-7 rounded-full bg-[#f37830] hover:bg-[#f37830] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
             aria-label="Instagram"
           >
             <Instagram className="w-3.5 h-3.5" />
           </a>
           <a 
-            href="https://www.linkedin.com/company/crumbl" 
+            href="https://www.linkedin.com/company/ulta" 
             target="_blank"
             rel="noopener noreferrer"
-            className="w-7 h-7 rounded-full bg-[#cc0000] hover:bg-[#cc0000] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
+            className="w-7 h-7 rounded-full bg-[#f37830] hover:bg-[#f37830] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
             aria-label="LinkedIn"
           >
             <Linkedin className="w-3.5 h-3.5 fill-current" />
@@ -39,13 +39,13 @@ const Footer = () => {
 
       {/* Copyright */}
       <p className="text-[#182C54]/60 text-[10px] font-bold mb-4 tracking-tight italic">
-        © 2026 Target Shopper Rewards. All rights reserved.
+        © 2026 Ulta Shopper Rewards. All rights reserved.
       </p>
 
       {/* Disclaimer */}
       <div className="max-w-sm mx-auto">
         <p className="text-[#182C54]/40 text-[9px] leading-relaxed font-medium">
-          This independent reward program is not sponsored, endorsed, or administered by Target or The Company, Inc. All brand names and logos are trademarks of their respective owners.
+          This independent reward program is not sponsored, endorsed, or administered by Ulta or The Company, Inc. All brand names and logos are trademarks of their respective owners.
         </p>
       </div>
     </footer>
