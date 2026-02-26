@@ -5,7 +5,7 @@ import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "Target Gift Card",
+  title: "Ulta Gift Card",
   description: "Participate in the PrettyLittleThing Rewards program and get a chance to claim a $500 gift card.",
     icons: {
     icon: [
@@ -56,3 +56,4 @@ export default function RootLayout({
     </html>
   );
 }
+
